@@ -10,8 +10,9 @@ url: "http://aye10031.github.io"
 
 # Comment
 comment:
-    disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    # disqus: leopard
+    uyan: 2147616  # 有言id,登录有言官网申请
+
 
 # Social
 social:
