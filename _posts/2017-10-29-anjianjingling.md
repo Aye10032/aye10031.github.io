@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "如何从官网下载驱动" 
+date: 2017-10-28 
 description: "驱动精灵毕竟有不准的时候，试试从官网下呢？"
 tag: 教程
 ---     
