@@ -24,5 +24,5 @@ tag: 教程
 
 主机编号也有好几种方式可以查看，不过最常见也是最方便的也就只有两种，下面我就来讲一下这两方法的具体操作步骤       
 - 直接在电脑表面查看。听上去好像让人一脸懵逼，什么叫直接在电脑表面查看？实际上很简单，上面也说了，主机编号一般在你买电脑的包装盒上就有贴着，不过如果你已经把包装盒给扔了那怎么办呢？也不要紧，把你的笔记本翻过来（我知道你们没几个会带个台式机来学校），笔记本背面有一个白色的标签条贴在那边，上面就有你的主机编号。注意，主机编号一般是一串混合了字母和数字的东西，**不要把你的电脑型号当成主机号咯**。     
-![]http://a3.qpic.cn/psb?/V117MGIn3dBRDw/bv9NlS38dMtsXIbALJOf8VLrngD4SAufvS9TGm0EAVU!/b/dPIAAAAAAAAA&bo=OASxBRgGOAgRCZg!&rf=viewer_4        
+![]http://a3.qpic.cn/psb?/V117MGIn3dBRDw/bv9NlS38dMtsXIbALJOf8VLrngD4SAufvS9TGm0EAVU!/b/dPIAAAAAAAAA&bo=OASxBRgGOAgRCZg!&rf=viewer_4
 
