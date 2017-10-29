@@ -41,5 +41,6 @@ tag: 教程
 
 #  一些常见厂家的驱动下载页的链接        
 [联想中国](http://support.lenovo.com.cn/lenovo/wsi/Modules/NewDrive.aspx)     
+[华硕](http://www.asus.com.cn/support/Download-Center/)       
 
 
