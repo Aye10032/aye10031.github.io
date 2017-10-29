@@ -40,5 +40,6 @@ tag: 教程
 - **重要！**在安装驱动的过程中千万不要人为关机或者是电脑因为没电而关机。否则会出现很严重的错误！安装驱动前请务必确定电脑状态良好！        
 
 #  一些常见厂家的驱动下载页的链接        
+[联想中国]http://support.lenovo.com.cn/lenovo/wsi/Modules/NewDrive.aspx     
 
 
