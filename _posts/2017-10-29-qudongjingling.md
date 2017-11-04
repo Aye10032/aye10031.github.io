@@ -44,4 +44,7 @@ tag: 教程
 [华硕](http://www.asus.com.cn/support/Download-Center/)       
 [惠普中国](https://support.hp.com/cn-zh/drivers)        
 
+# 本教程的视频链接      
+[【科技部培训】1、告别驱动精灵，学会从官网下载驱动](http://www.bilibili.com/video/av15648463/)      
+
 
